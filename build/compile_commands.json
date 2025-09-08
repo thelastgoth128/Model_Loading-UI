@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading_UI/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DLIBDEFLATE_DLL @CMakeFiles/ModelLoader.dir/includes_CXX.rsp -g -std=gnu++17   -mfpmath=sse -msse -msse2 -o CMakeFiles\\ModelLoader.dir\\main.cpp.obj -c C:\\Users\\HP\\OneDrive\\Documentos\\Cyrus\\Projects\\model_loading_UI\\main.cpp",
+  "file": "C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading_UI/main.cpp",
+  "output": "CMakeFiles/ModelLoader.dir/main.cpp.obj"
+}
+]

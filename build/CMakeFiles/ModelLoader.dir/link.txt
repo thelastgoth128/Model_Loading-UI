@@ -1,0 +1,3 @@
+C:\msys64\ucrt64\bin\cmake.exe -E rm -f CMakeFiles\ModelLoader.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\ModelLoader.dir/objects.a @CMakeFiles\ModelLoader.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\ModelLoader.dir/objects.a -Wl,--no-whole-archive -o ModelLoader.exe -Wl,--out-implib,libModelLoader.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ModelLoader.dir\linkLibs.rsp
