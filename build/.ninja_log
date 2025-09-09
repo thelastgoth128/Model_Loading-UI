@@ -1,0 +1,7 @@
+# ninja log v6
+4	464	7790346059656753	build.ninja	dd3ce16147469a3d
+2	400	7790346059656753	build.ninja	dd3ce16147469a3d
+30	2047	7790346061260061	CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.obj	64e648e8e35208dc
+23	2626	7790346061238021	CMakeFiles/ModelLoader.dir/main.cpp.obj	53175c5f0a1a4788
+37	2851	7790346061357829	CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.obj	7ef821982640c759
+52	1130	7790348982175619	CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.obj	8d5a6072ddcaea10

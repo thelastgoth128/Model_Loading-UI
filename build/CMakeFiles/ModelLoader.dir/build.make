@@ -86,19 +86,104 @@ CMakeFiles/ModelLoader.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ModelLoader.dir/main.cpp.s"
 	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading_UI\main.cpp -o CMakeFiles\ModelLoader.dir\main.cpp.s
 
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.obj: CMakeFiles/ModelLoader.dir/flags.make
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.obj: CMakeFiles/ModelLoader.dir/includes_CXX.rsp
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.obj: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.obj: CMakeFiles/ModelLoader.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading_UI\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.obj -MF CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\mesh.cpp.obj.d -o CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\mesh.cpp.obj -c C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\mesh.cpp
+
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\mesh.cpp > CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\mesh.cpp.i
+
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\mesh.cpp -o CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\mesh.cpp.s
+
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.obj: CMakeFiles/ModelLoader.dir/flags.make
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.obj: CMakeFiles/ModelLoader.dir/includes_CXX.rsp
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.obj: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.obj: CMakeFiles/ModelLoader.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading_UI\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.obj -MF CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\texture_loader.cpp.obj.d -o CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\texture_loader.cpp.obj -c C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\texture_loader.cpp
+
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\texture_loader.cpp > CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\texture_loader.cpp.i
+
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\texture_loader.cpp -o CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\texture_loader.cpp.s
+
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.obj: CMakeFiles/ModelLoader.dir/flags.make
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.obj: CMakeFiles/ModelLoader.dir/includes_CXX.rsp
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.obj: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.obj: CMakeFiles/ModelLoader.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading_UI\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.obj -MF CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\model_loader.cpp.obj.d -o CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\model_loader.cpp.obj -c C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\model_loader.cpp
+
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\model_loader.cpp > CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\model_loader.cpp.i
+
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\model_loader.cpp -o CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\model_loader.cpp.s
+
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.obj: CMakeFiles/ModelLoader.dir/flags.make
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.obj: CMakeFiles/ModelLoader.dir/includes_CXX.rsp
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.obj: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.obj: CMakeFiles/ModelLoader.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading_UI\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.obj -MF CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\shaders\shader.cpp.obj.d -o CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\shaders\shader.cpp.obj -c C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\shaders\shader.cpp
+
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\shaders\shader.cpp > CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\shaders\shader.cpp.i
+
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\shaders\shader.cpp -o CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\shaders\shader.cpp.s
+
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.obj: CMakeFiles/ModelLoader.dir/flags.make
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.obj: CMakeFiles/ModelLoader.dir/includes_CXX.rsp
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.obj: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.obj: CMakeFiles/ModelLoader.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading_UI\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.obj -MF CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\model.cpp.obj.d -o CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\model.cpp.obj -c C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\model.cpp
+
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\model.cpp > CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\model.cpp.i
+
+CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\model.cpp -o CMakeFiles\ModelLoader.dir\C_\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\model.cpp.s
+
 # Object files for target ModelLoader
 ModelLoader_OBJECTS = \
-"CMakeFiles/ModelLoader.dir/main.cpp.obj"
+"CMakeFiles/ModelLoader.dir/main.cpp.obj" \
+"CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.obj" \
+"CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.obj" \
+"CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.obj" \
+"CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.obj" \
+"CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.obj"
 
 # External object files for target ModelLoader
 ModelLoader_EXTERNAL_OBJECTS =
 
 ModelLoader.exe: CMakeFiles/ModelLoader.dir/main.cpp.obj
+ModelLoader.exe: CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.obj
+ModelLoader.exe: CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.obj
+ModelLoader.exe: CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.obj
+ModelLoader.exe: CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.obj
+ModelLoader.exe: CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.obj
 ModelLoader.exe: CMakeFiles/ModelLoader.dir/build.make
 ModelLoader.exe: CMakeFiles/ModelLoader.dir/linkLibs.rsp
 ModelLoader.exe: CMakeFiles/ModelLoader.dir/objects1.rsp
 ModelLoader.exe: CMakeFiles/ModelLoader.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading_UI\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ModelLoader.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading_UI\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable ModelLoader.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ModelLoader.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

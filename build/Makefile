@@ -128,6 +128,126 @@ ModelLoader/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ModelLoader.dir\build.make CMakeFiles/ModelLoader.dir/build
 .PHONY : ModelLoader/fast
 
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.obj: C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.obj
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.obj
+
+# target to build an object file
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ModelLoader.dir\build.make CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.obj
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.obj
+
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.i: C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.i
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.i
+
+# target to preprocess a source file
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ModelLoader.dir\build.make CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.i
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.i
+
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.s: C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.s
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.s
+
+# target to generate assembly for a file
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ModelLoader.dir\build.make CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.s
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.s
+
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.obj: C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.obj
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.obj
+
+# target to build an object file
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ModelLoader.dir\build.make CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.obj
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.obj
+
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.i: C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.i
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.i
+
+# target to preprocess a source file
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ModelLoader.dir\build.make CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.i
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.i
+
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.s: C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.s
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.s
+
+# target to generate assembly for a file
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ModelLoader.dir\build.make CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.s
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.s
+
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.obj: C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.obj
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.obj
+
+# target to build an object file
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ModelLoader.dir\build.make CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.obj
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.obj
+
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.i: C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.i
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.i
+
+# target to preprocess a source file
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ModelLoader.dir\build.make CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.i
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.i
+
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.s: C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.s
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.s
+
+# target to generate assembly for a file
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ModelLoader.dir\build.make CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.s
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.s
+
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.obj: C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.obj
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.obj
+
+# target to build an object file
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ModelLoader.dir\build.make CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.obj
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.obj
+
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.i: C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.i
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.i
+
+# target to preprocess a source file
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ModelLoader.dir\build.make CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.i
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.i
+
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.s: C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.s
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.s
+
+# target to generate assembly for a file
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ModelLoader.dir\build.make CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.s
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.s
+
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.obj: C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.obj
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.obj
+
+# target to build an object file
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ModelLoader.dir\build.make CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.obj
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.obj
+
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.i: C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.i
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.i
+
+# target to preprocess a source file
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ModelLoader.dir\build.make CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.i
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.i
+
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.s: C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.s
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.s
+
+# target to generate assembly for a file
+C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ModelLoader.dir\build.make CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.s
+.PHONY : C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -161,6 +281,21 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... ModelLoader
+	@echo ... C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.obj
+	@echo ... C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.i
+	@echo ... C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.s
+	@echo ... C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.obj
+	@echo ... C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.i
+	@echo ... C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.s
+	@echo ... C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.obj
+	@echo ... C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.i
+	@echo ... C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.s
+	@echo ... C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.obj
+	@echo ... C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.i
+	@echo ... C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.s
+	@echo ... C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.obj
+	@echo ... C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.i
+	@echo ... C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -1,0 +1,1199 @@
+Selected file: C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\Textures\backpack.obj
+Calling renderer...
+[Model] Constructor called with path: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/backpack.obj
+Animations: 0
+Meshes: 79
+Bones in first mesh: 0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+Getting texture from embedded
+[TextureLoader] Attempting to load texture: diffuse.jpg of type: texture_diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+Getting texture from embedded
+[TextureLoader] Attempting to load texture: specular.jpg of type: texture_specular
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1680 vertices.
+[Model] Finished processing node: Cube.028__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 15000 vertices.
+[Model] Finished processing node: Plane.008__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 216 vertices.
+[Model] Finished processing node: Cube.029__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 16368 vertices.
+[Model] Finished processing node: Plane.009__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 15000 vertices.
+[Model] Finished processing node: Plane.010__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 12192 vertices.
+[Model] Finished processing node: Plane.011__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 612 vertices.
+[Model] Finished processing node: Cylinder.029__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 93 vertices.
+[Model] Finished processing node: Cube.030__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 402 vertices.
+[Model] Finished processing node: Plane.012__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 360 vertices.
+[Model] Finished processing node: Plane.013__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 5619 vertices.
+[Model] Finished processing node: Cylinder.030__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 17421 vertices.
+[Model] Finished processing node: Plane.014__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1896 vertices.
+[Model] Finished processing node: Cube.031__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1128 vertices.
+[Model] Finished processing node: Cylinder.031__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 36 vertices.
+[Model] Finished processing node: Cube.032__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 3444 vertices.
+[Model] Finished processing node: Cylinder.032__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 948 vertices.
+[Model] Finished processing node: Cube.033__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 96 vertices.
+[Model] Finished processing node: Cube.034__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 96 vertices.
+[Model] Finished processing node: Cube.035__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 96 vertices.
+[Model] Finished processing node: Cube.036__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1158 vertices.
+[Model] Finished processing node: Cylinder.033__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 864 vertices.
+[Model] Finished processing node: Cube.037__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 2496 vertices.
+[Model] Finished processing node: Cylinder.034__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1812 vertices.
+[Model] Finished processing node: Cylinder.035__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 324 vertices.
+[Model] Finished processing node: Cube.038__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1344 vertices.
+[Model] Finished processing node: Cube.039__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.036__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 180 vertices.
+[Model] Finished processing node: Cylinder.037__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 180 vertices.
+[Model] Finished processing node: Cylinder.038__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.039__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.040__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.041__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.042__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.043__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.044__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.045__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.046__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.047__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.048__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 3156 vertices.
+[Model] Finished processing node: Cylinder.049__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1176 vertices.
+[Model] Finished processing node: Cube.040__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 4896 vertices.
+[Model] Finished processing node: Cube.041__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 4896 vertices.
+[Model] Finished processing node: Cube.042__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1944 vertices.
+[Model] Finished processing node: Cube.043__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1944 vertices.
+[Model] Finished processing node: Cube.044__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 960 vertices.
+[Model] Finished processing node: Cube.045__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 360 vertices.
+[Model] Finished processing node: Plane.015__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1020 vertices.
+[Model] Finished processing node: Cube.046__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 9312 vertices.
+[Model] Finished processing node: Cube.047__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1812 vertices.
+[Model] Finished processing node: Cylinder.050__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 324 vertices.
+[Model] Finished processing node: Cube.048__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.051__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.052__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.053__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.054__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 12096 vertices.
+[Model] Finished processing node: BezierCurve.003__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 4704 vertices.
+[Model] Finished processing node: Cube.049__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.055__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 84 vertices.
+[Model] Finished processing node: Cylinder.056__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 7920 vertices.
+[Model] Finished processing node: Cube.050__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1248 vertices.
+[Model] Finished processing node: Sphere.014__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1248 vertices.
+[Model] Finished processing node: Sphere.015__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1248 vertices.
+[Model] Finished processing node: Sphere.016__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1248 vertices.
+[Model] Finished processing node: Sphere.017__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 8592 vertices.
+[Model] Finished processing node: Cube.051__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1248 vertices.
+[Model] Finished processing node: Sphere.018__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1248 vertices.
+[Model] Finished processing node: Sphere.019__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1248 vertices.
+[Model] Finished processing node: Sphere.020__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1248 vertices.
+[Model] Finished processing node: Sphere.021__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1152 vertices.
+[Model] Finished processing node: Cube.052__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 9024 vertices.
+[Model] Finished processing node: Cube.053__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 6096 vertices.
+[Model] Finished processing node: Cube.054__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1248 vertices.
+[Model] Finished processing node: Sphere.022__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1248 vertices.
+[Model] Finished processing node: Sphere.023__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1248 vertices.
+[Model] Finished processing node: Sphere.024__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1248 vertices.
+[Model] Finished processing node: Sphere.025__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1248 vertices.
+[Model] Finished processing node: Sphere.026__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 1248 vertices.
+[Model] Finished processing node: Sphere.027__0
+loading texture
+loading texture_diffuse
+[Material] Diffuse count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: diffuse.jpg
+[TextureLoader] Trying external texture: diffuse.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/diffuse.jpg
+loading texture_specular
+[Material] Specular count: 1
+getting texture diffuse
+[TextureLoader] Embedded texture NOT found for: specular.jpg
+[TextureLoader] Trying external texture: specular.jpg
+filename: C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/Textures/specular.jpg
+[Model] Finished processing mesh with 2376 vertices.
+[Model] Finished processing node: Cube.055__0
+[Model] Finished processing node: backpack.obj
+[Model] Constructor finished.
+[Renderer] Launching GLFW window...
+Renderer call finished.

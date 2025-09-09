@@ -1,8 +1,38 @@
 [
 {
   "directory": "C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading_UI/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DLIBDEFLATE_DLL @CMakeFiles/ModelLoader.dir/includes_CXX.rsp -g -std=gnu++17   -mfpmath=sse -msse -msse2 -o CMakeFiles\\ModelLoader.dir\\main.cpp.obj -c C:\\Users\\HP\\OneDrive\\Documentos\\Cyrus\\Projects\\model_loading_UI\\main.cpp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/ModelLoader.dir/includes_CXX.rsp -g -std=gnu++17 -DLIBDEFLATE_DLL -mfpmath=sse -msse -msse2 -fdiagnostics-color=always -g -o CMakeFiles\\ModelLoader.dir\\main.cpp.obj -c C:\\Users\\HP\\OneDrive\\Documentos\\Cyrus\\Projects\\model_loading_UI\\main.cpp",
   "file": "C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading_UI/main.cpp",
   "output": "CMakeFiles/ModelLoader.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading_UI/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/ModelLoader.dir/includes_CXX.rsp -g -std=gnu++17 -DLIBDEFLATE_DLL -mfpmath=sse -msse -msse2 -fdiagnostics-color=always -g -o CMakeFiles\\ModelLoader.dir\\C_\\Users\\HP\\OneDrive\\Documentos\\Cyrus\\Projects\\model_loading\\src\\mesh.cpp.obj -c C:\\Users\\HP\\OneDrive\\Documentos\\Cyrus\\Projects\\model_loading\\src\\mesh.cpp",
+  "file": "C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp",
+  "output": "CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading_UI/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/ModelLoader.dir/includes_CXX.rsp -g -std=gnu++17 -DLIBDEFLATE_DLL -mfpmath=sse -msse -msse2 -fdiagnostics-color=always -g -o CMakeFiles\\ModelLoader.dir\\C_\\Users\\HP\\OneDrive\\Documentos\\Cyrus\\Projects\\model_loading\\src\\texture_loader.cpp.obj -c C:\\Users\\HP\\OneDrive\\Documentos\\Cyrus\\Projects\\model_loading\\src\\texture_loader.cpp",
+  "file": "C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp",
+  "output": "CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/texture_loader.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading_UI/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/ModelLoader.dir/includes_CXX.rsp -g -std=gnu++17 -DLIBDEFLATE_DLL -mfpmath=sse -msse -msse2 -fdiagnostics-color=always -g -o CMakeFiles\\ModelLoader.dir\\C_\\Users\\HP\\OneDrive\\Documentos\\Cyrus\\Projects\\model_loading\\src\\model_loader.cpp.obj -c C:\\Users\\HP\\OneDrive\\Documentos\\Cyrus\\Projects\\model_loading\\src\\model_loader.cpp",
+  "file": "C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp",
+  "output": "CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading_UI/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/ModelLoader.dir/includes_CXX.rsp -g -std=gnu++17 -DLIBDEFLATE_DLL -mfpmath=sse -msse -msse2 -fdiagnostics-color=always -g -o CMakeFiles\\ModelLoader.dir\\C_\\Users\\HP\\OneDrive\\Documentos\\Cyrus\\Projects\\model_loading\\src\\shaders\\shader.cpp.obj -c C:\\Users\\HP\\OneDrive\\Documentos\\Cyrus\\Projects\\model_loading\\src\\shaders\\shader.cpp",
+  "file": "C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp",
+  "output": "CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/shaders/shader.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading_UI/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/ModelLoader.dir/includes_CXX.rsp -g -std=gnu++17 -DLIBDEFLATE_DLL -mfpmath=sse -msse -msse2 -fdiagnostics-color=always -g -o CMakeFiles\\ModelLoader.dir\\C_\\Users\\HP\\OneDrive\\Documentos\\Cyrus\\Projects\\model_loading\\src\\model.cpp.obj -c C:\\Users\\HP\\OneDrive\\Documentos\\Cyrus\\Projects\\model_loading\\src\\model.cpp",
+  "file": "C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp",
+  "output": "CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.cpp.obj"
 }
 ]
