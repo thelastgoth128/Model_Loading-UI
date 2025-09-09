@@ -3,6 +3,8 @@
 #include "renderer.cpp"
 
 // Async callback for file selection
+Model* ourModel = nullptr;
+
 static void on_file_dialog_response(GtkFileDialog *dialog, GAsyncResult *res, gpointer user_data) {
     GFile *file = gtk_file_dialog_open_finish(dialog, res, NULL);
     if (file) {
