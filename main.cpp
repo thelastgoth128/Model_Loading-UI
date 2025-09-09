@@ -9,7 +9,19 @@ static void on_file_dialog_response(GtkFileDialog *dialog, GAsyncResult *res, gp
         const char *path = g_file_peek_path(file); 
         if (path) {
             g_print("Selected file: %s\n", path);
-            
+
+            // Delete previous model if it exists
+            if (ourModel) {
+                delete ourModel;
+                ourModel = nullptr;
+                g_print("Previous model deleted.\n");
+            }
+
+            // Normalize path (optional)
+            std::string fixedPath = std::string(path);
+            std::replace(fixedPath.begin(), fixedPath.end(), '\\', '/');
+
+            // Launch renderer
             g_print("Calling renderer...\n");
             launch_glfw_renderer();
             g_print("Renderer call finished.\n");
