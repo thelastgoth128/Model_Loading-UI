@@ -25,13 +25,13 @@ static void on_file_dialog_response(GtkFileDialog *dialog, GAsyncResult *res, gp
 
             // Launch renderer
             g_print("Calling renderer...\n");
-            launch_glfw_renderer();
+            launch_glfw_renderer(fixedPath.c_str());
             g_print("Renderer call finished.\n");
         }
-        // TODO: Pass 'path' to your model loading logic
         g_object_unref(file);
     }
 }
+
 
 // Trigger file dialog with filters
 static void open_file(GtkWidget *widget, gpointer data) {
