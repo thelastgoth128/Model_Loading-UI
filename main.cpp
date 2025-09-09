@@ -1,5 +1,5 @@
 #include <gtk/gtk.h>
-#include "model_loader.hpp"
+#include "model.h"
 #include "renderer.cpp"
 
 // Async callback for file selection
