@@ -49,7 +49,12 @@ static void activate(GtkApplication *app, gpointer user_data) {
     gtk_window_set_title(GTK_WINDOW(window), "Model Loader");
     gtk_window_set_default_size(GTK_WINDOW(window), 800, 600);
 
+    GtkWidget *button = gtk_button_new_with_label("Browse");
+    g_signal_connect(button, "clicked", G_CALLBACK(open_file), NULL);
+    gtk_window_set_child(GTK_WINDOW(window), button);
+    
 
+    gtk_window_present(GTK_WINDOW(window));
 }
 
 int main (int argc, char **argv) {
