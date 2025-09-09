@@ -403,4 +403,5 @@ CMakeFiles/ModelLoader.dir/C_/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_
  C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/dependencies/include/glm/ext/vector_uint1_precision.hpp \
  C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/dependencies/include/glm/gtc/type_ptr.inl \
  C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\mesh.h \
- C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\texture_loader.h
+ C:\Users\HP\OneDrive\Documentos\Cyrus\Projects\model_loading\src\texture_loader.h \
+ C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/dependencies/include/GLFW/glfw3.h

@@ -805,7 +805,6 @@ CMakeFiles/ModelLoader.dir/main.cpp.obj: \
  C:/msys64/ucrt64/include/gtk-4.0/gtk/gtkwindowcontrols.h \
  C:/msys64/ucrt64/include/gtk-4.0/gtk/gtkwindowgroup.h \
  C:/msys64/ucrt64/include/gtk-4.0/gtk/gtkwindowhandle.h \
- C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.hpp \
  C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model.h \
  C:/msys64/ucrt64/include/c++/14.2.0/vector \
  C:/msys64/ucrt64/include/c++/14.2.0/bits/allocator.h \
@@ -1135,4 +1134,5 @@ CMakeFiles/ModelLoader.dir/main.cpp.obj: \
  C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/mesh.h \
  C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/renderer.cpp \
  C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/renderer.hpp \
- C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/dependencies/include/GLFW/glfw3.h
+ C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/dependencies/include/GLFW/glfw3.h \
+ C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/src/model_loader.hpp
