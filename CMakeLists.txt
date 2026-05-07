@@ -39,7 +39,7 @@ add_executable(ModelLoader ${SOURCES})
 # Link directories
 target_link_directories(ModelLoader PRIVATE
     ${PROJECT_SOURCE_DIR}/dependencies/lib
-    "C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading/dependencies/lib"
+    ${PROJECT_SOURCE_DIR}/../model_loading/dependencies/lib
 )
 
 # Link libraries (keyword signature only)
