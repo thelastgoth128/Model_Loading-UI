@@ -67,8 +67,8 @@ static void activate(GtkApplication *app, gpointer user_data) {
     GtkWidget *overlay = gtk_overlay_new();
     gtk_window_set_child(GTK_WINDOW(window), overlay);
 
-    // Background image
-    GtkWidget *background = gtk_picture_new_for_filename("C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading_UI/tree.jpg");
+    // Background image (relative to working directory)
+    GtkWidget *background = gtk_picture_new_for_filename("tree.jpg");
     gtk_widget_set_hexpand(background, TRUE);
     gtk_widget_set_vexpand(background, TRUE);
     gtk_overlay_set_child(GTK_OVERLAY(overlay), background);
@@ -99,7 +99,7 @@ static void activate(GtkApplication *app, gpointer user_data) {
 
     // Load CSS
     GtkCssProvider *provider = gtk_css_provider_new();
-    gtk_css_provider_load_from_path(provider, "C:/Users/HP/OneDrive/Documentos/Cyrus/Projects/model_loading_UI/style.css");
+    gtk_css_provider_load_from_path(provider, "style.css");
     gtk_style_context_add_provider_for_display(gdk_display_get_default(),
         GTK_STYLE_PROVIDER(provider),
         GTK_STYLE_PROVIDER_PRIORITY_USER);
